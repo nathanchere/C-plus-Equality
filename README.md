@@ -237,3 +237,5 @@ Time and performance benchmarking
 * Performance benchmarking makes progryms into slaves to the patriarchy. Thus, there is to be no benchmarking - only **support**.
 * When running **support** on a progrym, the coder lets the progrym run as many times as the progrym likes, then asks the progrym nicely if it is happy with the hardware. The progrym may respond by stating its satisfaction, asking nicely for new hardware, sending out a **Trigger Warning**, demanding more support, *locking the OS* or crashing if it so pleases. 
 * To hinder deadbeat coders, running **support** automatically ensures that all daughter processes of a mother process also receive **support**. As processes in **C+=** share the computer's resources, one process that decides to *lock the OS* has no effect on the well-being of other **C+=** other processes.
+
+(token update to remain 'active' and qualify for automatic inclusion in the Actic Code Vault - https://archiveprogram.github.com/)
